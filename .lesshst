@@ -1,0 +1,6 @@
+.less-history-file:
+.search
+"views/reports/show.slim
+"qq
+.shell
+"      puts format % [user.email.green, "|", "#{user.password} (#{description})"]
